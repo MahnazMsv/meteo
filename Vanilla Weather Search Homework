@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -16,10 +16,25 @@
       <div>
         <h1>Paris</h1>
         <p>
-          Tuesday 12:40, scattered clouds
+          Tuesday 14:49, scattered clouds
           <br />
-          Humidity: 33%, Wind: 1.11km/h
+          Humidity: 66%, Wind: 3.13km/h
         </p>
       </div>
-      <div>🌤️ 10°C</div>
+      <div>🌤️ 12°C</div>
     </main>
+
+    <footer>
+      This project was coded by
+      <a href="https://github.com/MahnazMsv" target="_my--H"> MahnazMsv</a>, is
+      <a href="https://github.com/MahnazMsv/my--H/tree/main" target="_blank"
+        >open-sourced on GitHub</a
+      >
+      and
+      <a href="https://meteo-shecodes-app.netlify.app/" target="_blank"
+        >hosted on Netlify</a
+      >
+    </footer>
+  </body>
+</html>
+
